@@ -8,7 +8,10 @@ body {
   height: 100vh;
   margin: 0;
 }
-
+h1{
+  margin: auto;
+  padding: auto;
+}
 .calculator {
   width: 300px;
   background-color: #fff;
