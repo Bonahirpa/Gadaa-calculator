@@ -8,9 +8,10 @@ body {
   height: 100vh;
   margin: 0;
 }
-h1{
-  margin: auto;
-  padding: auto;
+.title{
+  background-color: #fff;
+
+
 }
 .calculator {
   width: 300px;
@@ -55,7 +56,7 @@ button:nth-child(3n) {
 }
 
 button:nth-child(4n) {
-  background-color: #4caf50;
+  background-color: #ec2b09;
   color: white;
 }
 
